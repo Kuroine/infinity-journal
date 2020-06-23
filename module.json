@@ -2,15 +2,16 @@
     "disableAutoUpdate": false,
     "disabled": false,
     "name": "infinity-journal",
-    "author": "Nekonekoo",
+    "author": "?_?",
     "description": "Have unlimited Teleport-spots with this Modification. :)",
     "version": "16.12.2019",
-    "servers": ["https://raw.githubusercontent.com/PatrickSantoZZ/infinity-journal/master/"],
+    "servers": ["https://raw.githubusercontent.com/Kuroine/infinity-journal/master/"],
     "options": {
         "niceName": "InfinityJournal",
         "guiName": "InfinityJournal",
         "reloadable": false
     },
     "dependencies": {},
-    "conflicts": []
+    "conflicts": [],
+    "supportUrl": "https://github.com/Kuroine"
 }
